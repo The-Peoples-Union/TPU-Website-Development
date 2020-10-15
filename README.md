@@ -1,4 +1,4 @@
-# TPU-Website-Development
+# The Peoples Union -Website-Development
 A website that can unite the world in wise and co-ordinated conversations about everything important.
 The Peoples Union Website Needs and Purpose.
 
